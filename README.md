@@ -28,3 +28,8 @@ java -jar ChatApp-1.0-SNAPSHOT-with-dependencies.jar --server
 ```bash
 java -jar ChatApp-1.0-SNAPSHOT-with-dependencies.jar
 ```
+
+## TODO
+file sharing has some bugs
+voice player has some bug
+messages ( inculding profile ) gets reset everytime so we need fix this
